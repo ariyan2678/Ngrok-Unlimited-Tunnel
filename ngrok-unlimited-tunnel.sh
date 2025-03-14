@@ -1,7 +1,7 @@
 #!/bin/sh
 
-auth1="<your_token>"   # Fill this
-auth2="<your_token>"   # Fill this
+auth1="2qRFUrP8W359fxX6hDcs9qM7ZQU_6kbjmAmGv5jJorJYiXRh5"   # Fill this
+auth2="2uJWc6WkYhFsTYoYv9MYIoTWhho_3nZ65wUtmDEoHaT7Jg7x3"   # Fill this
 
 
 echo "\n[!] Checking requirements"
